@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
+
+* {
+    font-family: 'Istok Web', sans-serif;
+}
+
+.containerz {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    color: aliceblue;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+ul.navbar {
+    gap: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
